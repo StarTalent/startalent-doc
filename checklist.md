@@ -1,0 +1,22 @@
+# Checklist para el proyecto
+
+- [X] Crear un nuevo proyecto en GitHub.
+  - [X] Un repositorio para el código fuente.
+  - [X] Un repositorio para la documentación.
+- [X] Definir el flujo de trabajo y las fases del proyecto.
+- [X] Documentar el proceso de desarrollo y la información sobre el proyecto.
+- [X] Establecer las categorías de tareas y su justificación.
+- [X] Implementar niveles de prioridad y estimaciones de esfuerzo.
+- [X] Personalizar la plantilla de GitHub para reflejar estos cambios.
+- [ ] Compartir la documentación con el equipo y recopilar comentarios.
+- [ ] Definir las tareas iniciales en el backlog del proyecto.
+- [ ] Crear diagramas de flujo y tableros para visualizar el progreso.
+- [ ] Establecer reuniones regulares para revisar el estado del proyecto.
+- [ ] Realizar pruebas de concepto y prototipos para validar ideas.
+- [ ] Diseñar una arquitectura de referencia para el proyecto.
+- [ ] Establecer un plan de pruebas y revisión de código.
+- [ ] Configurar los entornos de desarrollo.
+- [ ] Configurar el entorno de producción.
+- [ ] Implementar un sistema de integración y despliegue continuo.
+- [ ] Video de presentación del proyecto.
+- [ ] Documentación final y entrega del proyecto.
