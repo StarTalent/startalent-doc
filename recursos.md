@@ -16,3 +16,5 @@
 - [jQuery](https://jquery.com/)
 - [Apache Maven](https://maven.apache.org/)
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/#java21)
+- [Diagramas con UML](https://www.plantuml.com/)
+- [Diagramas con Mermaid](https://www.mermaidchart.com/)
