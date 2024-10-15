@@ -8,9 +8,9 @@
 - [X] Establecer las categorías de tareas y su justificación.
 - [X] Implementar niveles de prioridad y estimaciones de esfuerzo.
 - [X] Personalizar la plantilla de GitHub para reflejar estos cambios.
-- [ ] Compartir la documentación con el equipo y recopilar comentarios.
-- [ ] Definir las tareas iniciales en el backlog del proyecto.
-- [ ] Crear diagramas de flujo y tableros para visualizar el progreso.
+- [X] Compartir la documentación con el equipo y recopilar comentarios.
+- [X] Definir las tareas iniciales en el backlog del proyecto.
+- [X] Crear diagramas de flujo y tableros para visualizar el progreso.
 - [ ] Establecer reuniones regulares para revisar el estado del proyecto.
 - [ ] Realizar pruebas de concepto y prototipos para validar ideas.
 - [ ] Diseñar una arquitectura de referencia para el proyecto.

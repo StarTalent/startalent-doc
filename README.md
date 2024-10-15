@@ -222,6 +222,7 @@ Al migrar de Grails a Spring Boot y adoptar una arquitectura multi-tenant, este 
 - [Estructura del equipo y roles](equipo.md)
 - [Recursos y enlaces útiles](recursos.md)
 - [Checklist para el proyecto](checklist.md)
+- [Proceso de desarrollo y buenas prácticas](proceso-desarrollo.md)
 
 ---
 
