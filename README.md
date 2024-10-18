@@ -217,13 +217,15 @@ Al migrar de Grails a Spring Boot y adoptar una arquitectura multi-tenant, este 
 
 ## Enlaces de interés
 
+- [Estructura del equipo y roles](equipo.md)
+- [Guía de Estilo de Código](style-guide.md)
 - [Tips y Buenas Prácticas para Desarrolladores](tips.md)
 - [Flujo de trabajo y metodologías de gestión de proyectos](flujo-de-trabajo.md)
 - [Requisitos del Producto Mínimo Viable (MVP)](mvp.md)
-- [Estructura del equipo y roles](equipo.md)
 - [Recursos y enlaces útiles](recursos.md)
 - [Checklist para el proyecto](checklist.md)
 - [Proceso de desarrollo y buenas prácticas](proceso-desarrollo.md)
+- [Despliegue del Sistema](deployment.md)
 
 ---
 
